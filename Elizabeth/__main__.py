@@ -46,9 +46,7 @@ PM_START_TEXT = f"""
 
 buttons = [[InlineKeyboardButton(text="🖥️ 𝜢𝚺𝑳𝜬",
                                   callback_data="help_back"),
-]]
-
-buttons += [[InlineKeyboardButton(text="📲 𝜦𝑫𝑫 𝜧𝚺",
+            InlineKeyboardButton(text="📲 𝜦𝑫𝑫 𝜧𝚺",
                                   url="t.me/Thepgirlbot?startgroup=true"),
 ]]
 
