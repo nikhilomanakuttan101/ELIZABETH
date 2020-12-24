@@ -49,7 +49,7 @@ buttons = [[InlineKeyboardButton(text="🖥️ 𝜢𝚺𝑳𝜬",
 ]]
 
 buttons += [[InlineKeyboardButton(text="📲 𝜦𝑫𝑫 𝜧𝚺",
-                                  url="t.me/{}?startgroup=true".format(bot.username)),
+                                  url="t.me/Thepgirlbot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="💻 𝑪𝜞𝜠𝜦𝜯𝜪𝜞",
