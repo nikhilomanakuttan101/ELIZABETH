@@ -500,7 +500,7 @@ __mod_name__ = "MEMES"
 
 SHRUG_HANDLER = DisableAbleCommandHandler("shrug", shrug)
 DECIDE_HANDLER = DisableAbleMessageHandler(
-    Filters.regex(r"(?i)(Elizabeth)"), decide, friendly="decide"
+    Filters.regex(r"(?i)(Alexia)"), decide, friendly="decide"
 )
 SNIPE_HANDLER = CommandHandler(
     "snipe", snipe, pass_args=True, filters=CustomFilters.sudo_filter
