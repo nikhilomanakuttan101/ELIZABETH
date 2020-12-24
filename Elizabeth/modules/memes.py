@@ -486,7 +486,7 @@ Some dank memes for fun or whatever!
  ➩ /lined <text>: lined your text!
 *Regex based memes:*
 
- ➩ `/decide` can be also used with regex like: `Elizabeth What? <question>: randomly answer "Yes, No" etc.`
+ ➩ `/decide` can be also used with regex like: `Alexia What? <question>: randomly answer "Yes, No" etc.`
 
   Some other regex filters are:
   `me too` | `good morning` | `good night`.
