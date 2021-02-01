@@ -40,20 +40,20 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 `Hi..Welcome` 👀
-`I'm` [ALEXIA](https://telegra.ph/file/5a74133b1ebba9986fba1.jpg)
+`I'm` [PɾιɱҽFʅιxx Qυҽҽɳ](https://telegra.ph/file/4cf427e160a5eb0853066.jpg)
 `I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
-buttons = [[InlineKeyboardButton(text="🖥️ 𝜢𝚺𝑳𝜬",
+buttons = [[InlineKeyboardButton(text="💡 Help",
                                   callback_data="help_back"),
-            InlineKeyboardButton(text="📲 𝜦𝑫𝑫 𝜧𝚺",
-                                  url="t.me/Thepgirlbot?startgroup=true"),
+            InlineKeyboardButton(text="✅ Add Me",
+                                  url="http://t.me/Primeflixxqueeenbot?startgroup=true"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="💻 𝑪𝜞𝜠𝜦𝜯𝜪𝜞",
-                                  url="https://t.me/Mr_Hops"),
-             InlineKeyboardButton(text="🌎 𝑺𝑼𝜬𝜬𝜪𝜞𝜯 𝑮𝜞𝜪𝑼𝜬",
-                                  url="https://t.me/joinchat/JtIgvUuhHJlep1zpSSZwzA"),
+buttons += [[InlineKeyboardButton(text="👑 Creator",
+                                  url="https://t.me/Eva_Elffie"),
+             InlineKeyboardButton(text="🌎 SupportGroup",
+                                  url="https://t.me/PrimeFlixDB"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
@@ -61,7 +61,7 @@ buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` [ALEXIA](https://telegra.ph/file/5a74133b1ebba9986fba1.jpg)
+`Hi.. I'm` [PɾιɱҽFʅιxx Qυҽҽɳ](https://telegra.ph/file/4cf427e160a5eb0853066.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
