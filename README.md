@@ -15,4 +15,4 @@
 
 # <b>DEPLOY TO HEROKU ⬇️.</b>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arun-anjilik/ELIZABETH)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nikhilomanakuttan101/ELIZABETH)
